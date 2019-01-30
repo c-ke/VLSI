@@ -9,3 +9,6 @@ The major drawback here in this project is the lack of data. Since this model wi
 we expect to have a lot more data collected by that time.
 
 This is an ongoing project, my next step is to create a nn for the data.
+
+//// Next step is to signify proper categoriccal values as 0 is also a class, hence probably remove 0 from classes and use 
+natural numbers, for one hot encoding.
